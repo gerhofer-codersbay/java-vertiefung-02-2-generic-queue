@@ -9,6 +9,6 @@ Die queue sollte folgende Methoden besitzen:
 * public void enqueue(T element) 
     * fügt der Queue ein Element hinzu
 
-Teste deine Implementierung *ausführlich* mit Unit Tests. Verwende mindestens einen MyStack<Integer>, MyStack<String> und MyStack<Bill>.
+Teste deine Implementierung *ausführlich* mit Unit Tests. Verwende mindestens einen MyQueue\<Integer\>, MyQueue\<String\> und MyQueue\<Bill\>.
 Bill darf dabei eine ganz simple Klasse zur Repräsentation einer Rechnung sein. 
 
